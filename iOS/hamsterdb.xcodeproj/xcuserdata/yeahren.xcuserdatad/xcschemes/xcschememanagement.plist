@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>hamsterdb.xcscheme</key>
+		<key>Hamsterdb.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>4135C3EE1430B3F600864E49</key>
+		<key>414DEBA91433591D001527B8</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -13,10 +13,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4135C3EE1430B3F600864E49"
-               BuildableName = "libhamsterdb.a"
-               BlueprintName = "hamsterdb"
-               ReferencedContainer = "container:hamsterdb.xcodeproj">
+               BlueprintIdentifier = "414DEBA91433591D001527B8"
+               BuildableName = "Hamsterdb.framework"
+               BlueprintName = "Hamsterdb"
+               ReferencedContainer = "container:Hamsterdb.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,7 +34,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.GDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Release">
+      buildConfiguration = "Debug">
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
